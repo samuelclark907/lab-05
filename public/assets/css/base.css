@@ -202,3 +202,13 @@ p, ul, ol, dl, table {
 br.clear {
 	clear: both;
 }
+
+#portfolio.two {
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKMBsApp49x-iyBwfdBGuax0uFyQtHq3lpbQ&usqp=CAU');
+	color: rgb(251, 250, 252);
+}
+
+#porthead {
+	color: white;
+	tex
+}
